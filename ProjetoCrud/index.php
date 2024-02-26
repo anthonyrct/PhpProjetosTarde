@@ -19,7 +19,7 @@
                 <?php echo $_GET['msgSucesso']; ?>
             </div>
         <?php } ?>
-
+    </div>
         <h1>Olá, seja bem-vindo(a)!!</h1>
         <form action="processa_login.php" method="post">
             <div class="col-4">

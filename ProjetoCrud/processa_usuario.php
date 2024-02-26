@@ -38,3 +38,4 @@ VALUES
 }
 die();
 // Redirecionar para a página inicial (login) c/ mensagem erro/sucesso
+?>

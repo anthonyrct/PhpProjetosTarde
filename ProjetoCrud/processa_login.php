@@ -45,5 +45,4 @@ if (!empty($_POST)) {
     } catch (PDOException $e) {
         die($e->getMessage());
     }
-    
 }
